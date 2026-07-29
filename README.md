@@ -41,9 +41,11 @@ Hi, I'm **Sora Bladeheart** — a game developer building immersive mobile world
 
 <div align="center">
 
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+<a src="https://sorabladeheart.itch.io">[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](#)</a>
+<a src="https://x.com/SoraBladeheart">[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)</a>
+<a src="https://www.youtube.com/@SoraBladeheart">[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)</a>
+<a src="https://www.instagram.com/sorabladeheart/">[![Instagram]</a>
+<a src="https://www.tiktok.com/@sorabladeheart">[![Tiktok]</a>
 
 </div>
 
