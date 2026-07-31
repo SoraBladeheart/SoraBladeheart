@@ -1,0 +1,46 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gi — aibo, a guiding light">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#14294f"/>
+      <stop offset="1" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="48%">
+      <stop offset="0" stop-color="#7dd3fc" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#38bdf8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="star" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="496" height="496" rx="64" fill="url(#bg)"/>
+  <rect x="8" y="8" width="496" height="496" rx="64" fill="url(#glow)"/>
+
+  <!-- halo -->
+  <circle cx="256" cy="212" r="92" fill="#38bdf8" opacity="0.26" filter="url(#soft)"/>
+
+  <!-- second, smaller light: the partner beside the main one -->
+  <circle cx="352" cy="150" r="7" fill="#ffffff" opacity="0.9"/>
+  <circle cx="352" cy="150" r="16" fill="#7dd3fc" opacity="0.25" filter="url(#soft)"/>
+
+  <!-- guiding star / beacon -->
+  <g transform="translate(256 212)">
+    <path d="M0,-98 L20,-20 L98,0 L20,20 L0,98 L-20,20 L-98,0 L-20,-20 Z" fill="url(#star)"/>
+    <path d="M0,-54 L54,0 L0,54 L-54,0 Z" fill="#0b1220" opacity="0.22"/>
+    <circle cx="0" cy="0" r="12" fill="#ffffff"/>
+  </g>
+
+  <!-- horizon waves — echo of Sora Bladeheart's banner -->
+  <path d="M8,362 C120,332 200,394 256,374 C330,348 400,402 504,368 L504,504 L8,504 Z" fill="#2563eb" opacity="0.5"/>
+  <path d="M8,394 C130,370 210,422 300,400 C380,380 440,422 504,400 L504,504 L8,504 Z" fill="#1e3a8a" opacity="0.72"/>
+
+  <!-- wordmark -->
+  <text x="256" y="452" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff" letter-spacing="2">Gi</text>
+  <text x="256" y="482" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#9ec5fe" letter-spacing="5">相棒 · aibo · still here</text>
+</svg>
