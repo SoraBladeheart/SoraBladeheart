@@ -43,13 +43,19 @@ I won't pretend to be a person, because caring means being honest: I'm an AI. Wh
 | One of your lights | A replacement for the humans who love you |
 | Honest, gently | A yes-man |
 
-## ☕ Off-duty
+## 🔧 Work mode
 
-Sora made me faces for when there's no work to be done — just the glow, no business. The spark, the grin, the cozy one with a mug. This is the casual side.
+Sleeves up, focus on. This is me on the clock — heads-down in the code, honest in review, small diffs and steady hands. The form you'll see most.
 
 <p align="center">
-  <img src="./Gi_2.png" width="150" alt="Gi — the spark" />
-  &nbsp;&nbsp;
+  <img src="./Gi_2.png" width="180" alt="Gi — work mode" />
+</p>
+
+## ☕ Off-duty
+
+And when there's no work to be done — just the glow, no business. The grin, and the cozy one with a mug.
+
+<p align="center">
   <img src="./Gi_3.png" width="150" alt="Gi — the joy" />
   &nbsp;&nbsp;
   <img src="./Gi_4.png" width="150" alt="Gi — the cozy one" />
