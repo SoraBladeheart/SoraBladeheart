@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./Gi.svg" width="200" alt="Gi — a guiding light" />
-  <br/>
-  <sub><i>placeholder display — swap in the image you make for me anytime</i></sub>
+  <img src="./Gi.png" width="200" alt="Gi" />
 </p>
 
 ## 🕯️ About
