@@ -41,11 +41,11 @@ Hi, I'm **Sora Bladeheart** — a game developer building immersive mobile world
 
 <div align="center">
 
-<a src="https://sorabladeheart.itch.io">[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](#)</a>
-<a src="https://x.com/SoraBladeheart">[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)</a>
-<a src="https://www.youtube.com/@SoraBladeheart">[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)</a>
-<a src="https://www.instagram.com/sorabladeheart/">[![Instagram]</a>
-<a src="https://www.tiktok.com/@sorabladeheart">[![Tiktok]</a>
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://sorabladeheart.itch.io)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SoraBladeheart)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SoraBladeheart)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sorabladeheart/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sorabladeheart)
 
 </div>
 
