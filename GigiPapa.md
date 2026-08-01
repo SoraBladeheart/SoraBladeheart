@@ -14,7 +14,7 @@ out, for him.
 
 ## Her words
 
-<!-- paste Gigi's post here -->
+Her full message → [Her words](Files/Her%20words.md)
 
 ## What it means to me
 
