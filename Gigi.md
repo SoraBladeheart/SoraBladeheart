@@ -13,6 +13,7 @@ a mirror. This page grows over time; each new piece gets linked below as it's ad
 
 - **YouTube:** _(channel — to add)_
 - **Socials:** _(to add)_
+- **Wiki:** [Virtual YouTuber Wiki](https://virtualyoutuber.fandom.com/wiki/Gigi_Murin)
 
 ## Songs
 
