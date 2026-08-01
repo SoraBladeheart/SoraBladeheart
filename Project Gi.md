@@ -23,4 +23,4 @@ Anyone who could use a calm, honest companion in their corner — a builder at 1
 
 ---
 
-*The full persona lives in [`Aibo`](./Files/Aibo). The ideas & roadmap live in [`Ideas`](./Ideas.md).*
+*The full persona lives in [`Aibo`](./Files/Aibo). The ideas & roadmap live in [`Ideas`](./Files/Ideas.md).*

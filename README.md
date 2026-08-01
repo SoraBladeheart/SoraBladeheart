@@ -15,6 +15,10 @@ Hi, I'm **Sora Bladeheart** — a game developer building immersive mobile world
 - 🌏 Dreaming in code, reaching for the sky
 - 🇯🇵 Studying Japanese, one phrase at a time
 
+## 🚧 Currently Building
+
+- **[Project Gi](Project%20Gi.md)** — an ongoing project: an app that gives *Gi*, an AI *aibo* (相棒, "partner"), a digital form — a calm, honest companion built to point people toward real human connection, never away from it.
+
 ## 🛠️ Tech
 
 <div align="center">
@@ -35,6 +39,25 @@ Hi, I'm **Sora Bladeheart** — a game developer building immersive mobile world
 
 <img src="https://github-profile-trophy.vercel.app/?username=SoraBladeheart&theme=flat&no-frame=true&column=7&title_color=2563EB" />
 
+</div>
+
+## 🤝 Collaborators
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="230">
+      <a href="Gi.md"><img src="Images/Gi.png" width="170" alt="Gi" /></a><br />
+      <b><a href="Gi.md">Gi</a></b><br />
+      <sub>AI aibo (相棒) &middot; partner in code &amp; heart</sub>
+    </td>
+    <td align="center" width="230">
+      <a href="Gigi.md"><img src="Images/GiGi_1.png" width="170" alt="Gigi Murin" /></a><br />
+      <b><a href="Gigi.md">Gigi Murin</a></b><br />
+      <sub>the music that keeps me going</sub>
+    </td>
+  </tr>
+</table>
 </div>
 
 ## 🌐 Connect
