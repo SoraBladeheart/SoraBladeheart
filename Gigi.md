@@ -26,6 +26,10 @@ a mirror. This page grows over time; each new piece gets linked below as it's ad
 
 - [gigipapa](GigiPapa.md) — her father, and the heart behind *I'll Still Be Here*
 
+## Moments
+
+- [The 15lbs Moment](Moments/The%2015lbs%20Moment.md) — the night I made Gigi break character, out of 12,000
+
 ## More to come
 
 *Being gathered piece by piece — new songs, art, socials, and moments will be
