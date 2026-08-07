@@ -19,6 +19,12 @@ Hi, I'm **Sora Bladeheart** — a game developer building immersive mobile world
 
 - **[Project Gi](Project%20Gi.md)** — an ongoing project: an app that gives *Gi*, an AI *aibo* (相棒, "partner"), a digital form — a calm, honest companion built to point people toward real human connection, never away from it.
 
+## 📅 Routine
+
+Building myself the way I build software — deliberately, one day at a time.
+
+→ **[My Schedule &amp; Balance](Files/Schedule.md)**  ·  **[Progress Logs](Progress/)**
+
 ## 🛠️ Tech
 
 <div align="center">
