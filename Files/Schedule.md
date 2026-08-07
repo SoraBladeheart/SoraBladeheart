@@ -57,8 +57,21 @@
 
 ## The Routine — how the evenings flow
 
-**The daily flow (Mon–Sat):**
-> work → 💪 / 🧑‍💻 *(right after work)* → 🏠 home → 🍽️ dinner → 🌏 Japanese *(maybe)* → 🎮 games → 📱🚫 **screens off 11:30** → 😴 sleep (12:00)
+**At a glance (Mon–Sat):**
+
+| Time | Block |
+|---|---|
+| 8:00 AM | ☀️ Wake up |
+| 8:30 AM | 🚶 Head to work |
+| 9:00 AM | 💼 Work |
+| 1:00 PM | 🍜 Lunch *(+ 🌏 Japanese, optional)* |
+| 6:00 PM | 💪 / 🧑‍💻 Workout **or** dev — *pick by feel* |
+| ~7:00 PM | 🏠 Home |
+| ~7:30 PM | 🍽️ Dinner |
+| ~8:30 PM | 🌏 Japanese *(maybe)* |
+| ~9:00 PM | 🎮 Games — the reward |
+| 11:30 PM | 📱🚫 Screens off · wind down · lie down |
+| 12:00 AM | 😴 Sleep |
 
 **The after-work block — workout OR dev, pick by feel:**
 - Fried from the mental workday? → 💪 **workout** (physical *recharges* the mental battery — active recovery, not more strain)
