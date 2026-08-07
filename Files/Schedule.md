@@ -58,7 +58,7 @@
 ## The Routine — how the evenings flow
 
 **The daily flow (Mon–Sat):**
-> work → 💪 / 🧑‍💻 *(right after work)* → 🏠 home → 🍽️ dinner → 🌏 Japanese *(maybe)* → 🎮 games → 😴 sleep
+> work → 💪 / 🧑‍💻 *(right after work)* → 🏠 home → 🍽️ dinner → 🌏 Japanese *(maybe)* → 🎮 games → 📱🚫 **screens off 11:30** → 😴 sleep (12:00)
 
 **The after-work block — workout OR dev, pick by feel:**
 - Fried from the mental workday? → 💪 **workout** (physical *recharges* the mental battery — active recovery, not more strain)
