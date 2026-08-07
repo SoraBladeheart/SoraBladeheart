@@ -55,27 +55,22 @@
 >
 > *No job yet — when one lands, we re-balance the whole plan around its hours. This schedule is a **living** thing, meant to flex, not a stone tablet.*
 
-## Weekly Rotation — DRAFT *(react & adjust)*
+## The Routine — how the evenings flow
 
-**The physical / mental logic:** your day job is *mental* — 9–6, six days a week — so your brain comes home tired. Weeknights lean **physical** (a workout after mental work is *active recovery*, not more strain); the **deep mental dev** waits for Sunday's fresh brain. → *Body in the evenings, mind on Sunday, light learning daily.*
+**The daily flow (Mon–Sat):**
+> work → 💪 / 🧑‍💻 *(right after work)* → 🏠 home → 🍽️ dinner → 🌏 Japanese *(maybe)* → 🎮 games → 😴 sleep
 
-**Daily anchors** (small, low-drain):
-- 🌏 **Japanese** — 20–30 min (light mental — fine even on a tired brain)
-- 🎮 **Games** — ~1 hr wind-down (recharge, not a drain)
+**The after-work block — workout OR dev, pick by feel:**
+- Fried from the mental workday? → 💪 **workout** (physical *recharges* the mental battery — active recovery, not more strain)
+- Still have mental gas? → 🧑‍💻 **short dev session** (research / practice)
+- Loose weekly target so the balance holds: **~3 workout nights + ~2 dev nights**
 
-**Weekday evenings** (~1–1.5 hr — lean physical):
-
-| Day | Focus | Battery |
-|---|---|---|
-| Monday | 💪 Workout | physical |
-| Tuesday | 🧑‍💻 Dev — short portfolio session | mental (light dose) |
-| Wednesday | 💪 Workout | physical |
-| Thursday | 🕹️ Dev — short small-game session | mental (light dose) |
-| Friday | 🛹 Skateboarding / 💪 workout | physical |
-| Saturday | 🎨 Project Gi *(or rest — end of the work week)* | flex |
+**Daily anchors (light):**
+- 🌏 Japanese — ~20–30 min (lunch pocket or after dinner; "maybe" is fine — even 10 min counts as kept)
+- 🎮 Games — ~1 hr wind-down (the reward, not a chore)
 
 **Sunday — fresh brain = deep work + play:**
-- 🧑‍💻 **Deep dev block** — Project Gi / portfolio / small game (the real focused session)
+- 🧑‍💻 Deep dev block (Project Gi / portfolio / small game) — the real focused session
 - 🛹 Skateboarding — morning, physical + fun
 - Rest · family · life-admin — **protected**
 
